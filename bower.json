@@ -16,9 +16,9 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-control": "^5.0.0",
-    "purescript-invariant": "^5.0.0",
-    "purescript-newtype": "^4.0.0",
-    "purescript-prelude": "^5.0.0"
+    "purescript-control": "https://github.com/working-group-purescript-es/purescript-control.git#es-modules",
+    "purescript-invariant": "https://github.com/working-group-purescript-es/purescript-invariant.git#es-modules",
+    "purescript-newtype": "https://github.com/working-group-purescript-es/purescript-newtype.git#es-modules",
+    "purescript-prelude": "https://github.com/working-group-purescript-es/purescript-prelude.git#es-modules"
   }
 }
